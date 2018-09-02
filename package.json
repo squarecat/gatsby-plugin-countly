@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-countly",
   "description": "Gatsby plugin to add Countly analytics onto a site",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "James Ivings <james@squarecat.io>",
   "bugs": {
     "url": "https://github.com/squarecat/gatsby-plugin-countly/issues"
